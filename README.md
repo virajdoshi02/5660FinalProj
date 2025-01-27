@@ -5,6 +5,10 @@
 
 This is an artistic project we undertook for our procedural graphics class. Since we all liked manga, we decided to recreate the appearance and atmosphere of BLAME! using Houdini and Unreal Engine 5. Our presentation: https://docs.google.com/presentation/d/1II2-8XqpZL6pYmFS8OX6cCYfF_ErH7AqSopiRrCjQBg/edit?usp=sharing
 
+Flying exploration: https://drive.google.com/file/d/1Jm05dVub9pDr2JPP4HZmZVGPJ4hV4_kA/view?usp=sharing
+
+Walking exploration: https://drive.google.com/file/d/1-2cKleCnpb9moWjfJNTZIhcy0mpHoRX_/view?usp=sharing
+
 <br>
 
 **My Team:**
